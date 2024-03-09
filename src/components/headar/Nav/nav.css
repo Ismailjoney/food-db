@@ -1,3 +1,4 @@
-.navbar .isctive {
+.navbar a {
     text-decoration: underline;
+    padding-left: 20px;
 }

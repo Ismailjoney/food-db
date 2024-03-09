@@ -13,7 +13,6 @@ const route = createBrowserRouter([
     path:'/',
     element: <Home></Home>,
     children : [
-       
       {
         path: '/allmeal',
         element :<AllMeal></AllMeal>
